@@ -2,7 +2,7 @@
 # run streamlit: streamlit run .\Streamlit_ClaimTool\main_API.py
 
 import streamlit as st
-from data_processing import * #load_data, clean_data, summarize_data
+from functions import * #load_data, clean_data, summarize_data
 
 
 def main():
